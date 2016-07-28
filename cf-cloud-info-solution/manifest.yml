@@ -1,7 +1,7 @@
 applications:
-- name: cf-cloud-info-solution-jw123
+- name: cf-cloud-info-solution-jw
   memory: 512M
   # Add your name/initials to make the hostname unique
-  host: cloud-info-solution-jw123
+  # host: cloud-info-solution-jw123
   #path: build/lib/cf-cloud-info-solution-0.0.1-SNAPSHOT.war   # Gradle
   path: target/cf-cloud-info-solution-0.0.1-SNAPSHOT.war   # Maven
